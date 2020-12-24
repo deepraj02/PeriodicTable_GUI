@@ -11,14 +11,14 @@
 ### <u>Steps and Module Needed🤩🤩🤩.</u>
   
   1. We need to install Tkinter Library of Python in order to make the GUI
-      - In order to install TKinter,first open your CMD or any other Terminal and type **{pip install python-tk}**. That's it.
-      <!-- - <img src=""> -->
+      - In order to install TKinter,first open your CMD or any other Terminal and type **{pip install tk}**. That's it.
+        <img src="ter.png">
   2. Now make a list of all the Elements of the Periodic Table in a seperate python file and store them all in a **dictionary**(a data type in python).
-       <img src="tableElem.png">
+        <img src="tableElem.png">
 
   3. Import the file containing the dictionary of all the     Elements in the main code file.
       - eg-- {from filename.py import *}, which in this case is [elements.py](elements.py)
-      <img src="2.png">
+        <img src="2.png">
 
   4. Now follow the code i.e-- [table.py](table.py)
 <br>
